@@ -19,7 +19,7 @@ public class BedtimeStories {
                 lineNumber++;
             }
         } catch (IOException e) {
-            System.out.println("Couldn't find file or something unexpected what wrong");
+            System.out.println("Couldn't find file or something unexpected went wrong");
         }
     }
 }
